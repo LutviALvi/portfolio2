@@ -1,0 +1,69 @@
+* {
+	font-family: 'Mochiy Pop One', sans-serif;
+	color: #575353;
+}
+
+.body {
+	background-color: #dddddd;
+}
+
+.clrfont {
+	color: #dddddd;
+	font-family: 'Playpen Sans', cursive;
+}
+
+.navbar {
+	background-color: rgba(164, 159, 159, 0.5);
+	height: 60px;
+}
+
+.aktip {
+	margin-bottom: -2px;
+	border-bottom: 3px solid #c4bebe;
+	color: #c7c4c4;
+}
+
+.hovernav:hover {
+	margin-bottom: -2px;
+	border-bottom: 3px solid #a49f9f;
+	transition: ease-in-out 0.1s;
+}
+
+.main {
+	background: linear-gradient(rgba(107, 116, 126), rgba(107, 116, 126, 0.4));
+}
+
+.jumbotron {
+	border-radius: 0 0 500px 200px;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgb(0, 0, 0, 0.7)), url(../img/bannnner.jpeg);
+	background-size: cover;
+	height: 95vh;
+	margin-top: -60px;
+	background-position: 10px;
+}
+
+.baten {
+	background-color: #dddddd !important;
+	color: #575353 !important;
+	border-radius: 10px !important;
+}
+
+.baten:hover {
+	background-color: #a49f9f !important;
+	color: #dddddd !important;
+}
+
+.pro {
+	border-radius: 24px 0px 250px 250px;
+}
+
+.round {
+	border-radius: 30px !important;
+}
+
+.logo {
+	color: #dddddd !important;
+}
+.logo:hover {
+	color: #8d8888 !important;
+}
